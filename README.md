@@ -59,4 +59,4 @@ Este projeto é uma recriação robusta e interativa do jogo arcade *Breakout*. 
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/WeslleyA/NOME-DO-SEU-REPOSITORIO.git](https://github.com/WeslleyA/NOME-DO-SEU-REPOSITORIO.git)# breakout
+   git clone [https://github.com/WeslleyA/breakout.git](https://github.com/WeslleyA/breakout.git)# breakout
